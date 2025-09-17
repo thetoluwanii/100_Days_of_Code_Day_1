@@ -1,5 +1,7 @@
 100 Days of Code - Day 1
+
 Project Overview:
+
 This is my project for Day 1 of the 100 Days of Code: The Complete Python Pro Bootcamp by Dr. Angela Yu on Udemy.
 
 What I Learned Today:
